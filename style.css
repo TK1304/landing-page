@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-  background-color: #333;
+  background: linear-gradient(to bottom, #4CAF50, #2E8B57);
   color: #fff;
   padding: 40px 0;
   text-align: center;
@@ -32,7 +32,7 @@ body {
 }
 
 .cta {
-  background-color: #f4f4f4;
+  background: linear-gradient(to bottom, #FFA500, #FF6347);
   text-align: center;
   padding: 60px 0;
 }
